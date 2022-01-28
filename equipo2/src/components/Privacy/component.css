@@ -1,0 +1,7 @@
+#privacy-container {
+    width: 80%;
+    margin: 2rem auto;
+}
+#privacy-container h2 {
+    font-size: clamp(2rem, 5vw + 1rem, 4rem);
+}

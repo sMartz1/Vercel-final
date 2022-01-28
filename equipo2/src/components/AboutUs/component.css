@@ -1,0 +1,34 @@
+.AboutUs {
+    margin: auto;
+}
+
+.AboutUsInfo {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.AboutUsInfo>p {
+    color: #23394d;
+    font-size: large;
+}
+
+.AboutUsInfo>a {
+    text-align: center;
+    text-decoration: none;
+    color: #ebb032;
+    font-size: large;
+}
+
+.gmap_canvas {
+    display: flex;
+    justify-content: center;
+}
+
+#gmap_canvas {
+    width: 50%;
+    height: 500px;
+}
